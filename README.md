@@ -1,8 +1,10 @@
-## React JS валидация формы
+## React JS валидация формы c Formik и Yup
 
 #### `Demo:` https://dmitriyshkredov.github.io/react-form-validation/
 
-#### `Телеграм:` [@tipichnyj_web_razrabotchik](https://t.me/tipichnyj_web_razrabotchik)
+#### `Телеграм:` [@tipichnyj_web_razrabotchik](https://t.me/tipichnyj_web_razrabotchik/31)
+
+#### `Видео:` [YouTube](https://youtu.be/3vg0Kml3LpY) | [VK Видео](https://vk.com/video-222570561_456239062) | [Дзен](https://m.dzen.ru/video/watch/65577f991e1bd141ad48454e) | [RuTube](https://rutube.ru/video/e15a8fd21085dca01cd3ab1f838f8c21/)
 
 ---
 
@@ -10,7 +12,7 @@
 
 #### `npm install`
 
-#### `npm run start`
+#### `npm run dev`
 
 #### `npm run build`
 
